@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqMLCKeA08gs27GT4r2T0oztoeIIbViVyojv8TbgG5paD78KbWtFHlnIqTk+CC0yYmwtdRef6UnAqyHHjI+hdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(11) 22.01.2024\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.15\\microsoft.aspnetcore.connections.abstractions.7.0.15.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.15\\microsoft.aspnetcore.signalr.common.7.0.15.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.features\\7.0.15\\microsoft.extensions.features.7.0.15.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
